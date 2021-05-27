@@ -4,7 +4,7 @@ osidentifier es una herramienta simple creada en bash que permite identificar el
 
 ## Instalación
 Clonamos el repositorio en el directorio que deseemos:<br/>
->git clone https://github.com/adiaguilar/osidentifier.git<br/><br/>
+>git clone https://github.com/s4dbrd/osidentifier.git<br/><br/>
 >cd osidentifier<br/><br/>
 >chmod +x osidentifier.sh<br/>
 
